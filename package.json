@@ -6,6 +6,8 @@
   "repository": "git@github.com:iam-frankqiu/react-use-watch.git",
   "author": "FrankQiu <iam.frankqiu@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/iam-frankqiu/react-use-watch",
+  "keywords": ["react", "reactjs", "hooks", "utilities"],
   "private": false,
   "dependencies": {
     "react": "^17.0.1"
