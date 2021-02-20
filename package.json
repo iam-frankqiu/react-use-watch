@@ -1,5 +1,5 @@
 {
-  "name": "use-watch",
+  "name": "react-use-watch",
   "version": "1.0.0",
   "description": "A React hook about triggers once only when conditions have changed.",
   "main": "index.js",
