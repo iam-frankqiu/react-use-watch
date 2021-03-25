@@ -27,6 +27,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "tsc --project tsconfig.json"
+    "build": "tsc --project tsconfig.json",
+    "prepublishOnly": "yarn build"
   }
 }
