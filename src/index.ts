@@ -1,6 +1,6 @@
 import {useEffect, useRef} from 'react'
 
-export function useWatch (callback, args) {
+export function useWatch (callback: () => {}, args: []):void {
     
     const flag = useRef(false)
     useEffect(() => {
