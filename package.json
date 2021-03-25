@@ -13,6 +13,9 @@
     "hooks",
     "utilities"
   ],
+  "files": [
+    "dist/"
+  ],
   "private": false,
   "typings": "dist/index.d.ts",
   "dependencies": {
