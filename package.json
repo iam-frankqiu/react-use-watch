@@ -11,7 +11,10 @@
     "react",
     "reactjs",
     "hooks",
-    "utilities"
+    "utilities",
+    "js",
+    "javascript",
+    "react-dom"
   ],
   "files": [
     "dist/"
