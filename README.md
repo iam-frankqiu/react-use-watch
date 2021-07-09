@@ -8,7 +8,7 @@ useEffect(() => {
   document.title = `You clicked ${count} times`;
 }, [count]); // Only re-run the effect if count changes
 ```
-Just like above. The react hooks of [useEffect](https://reactjs.org/docs/hooks-effect.html) will run the effect at least once neither if the count changes or not. It will trigger another time if the count has changed. That's not what we want. What I really want is that only run the effect if the count changes. That's the philosophy of `react-use-watch`.
+Just like above. The react hooks of [useEffect](https://reactjs.org/docs/hooks-effect.html) will run the effect at least once despite if the count changes or not. It will trigger another time if the count has changed. That's not what we want. What I really want is that only run the effect if the count changes. That's the philosophy of `react-use-watch`.
 
 ## Installation
 
