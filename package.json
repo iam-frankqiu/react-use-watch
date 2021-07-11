@@ -1,6 +1,6 @@
 {
   "name": "react-use-watch",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A React hook about triggers once only when conditions have changed.",
   "main": "dist/index.js",
   "repository": "git@github.com:iam-frankqiu/react-use-watch.git",
@@ -14,7 +14,10 @@
     "utilities",
     "js",
     "javascript",
-    "react-dom"
+    "react-dom",
+    "watch",
+    "callback",
+    "dependency"
   ],
   "files": [
     "dist/"
