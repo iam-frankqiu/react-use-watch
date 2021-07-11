@@ -1,7 +1,9 @@
 # react-use-watch
-![npm](https://img.shields.io/npm/v/react-use-watch)
+![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![dependency](https://img.shields.io/badge/dependency-zero-brightgreen)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-use-watch)
 ![typescript supported](https://img.shields.io/badge/typescript-supported-brightgreen)
+![npm](https://img.shields.io/npm/v/react-use-watch)
 
 A React hook about triggers once only when conditions have changed.
 
