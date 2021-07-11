@@ -4,6 +4,8 @@
  */
 
 export default {
+  preset: 'ts-jest',
+  testEnvironment: 'node',
   // All imported modules in your tests should be mocked automatically
   // automock: false,
 
@@ -172,7 +174,6 @@ export default {
   // timers: "real",
 
   // A map from regular expressions to paths to transformers
-  // transform: undefined,
 
   // An array of regexp pattern strings that are matched against all source file paths, matched files will skip transformation
   // transformIgnorePatterns: [
