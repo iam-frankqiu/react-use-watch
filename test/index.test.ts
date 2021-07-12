@@ -18,7 +18,6 @@ describe('test when args changes the function only triggers once', () => {
         act(() => {
             setStatus('loading')
         })
-        expect(result.current.status).toBe('loading')
         expect(result.current.count).toBe(2)
     });
 
