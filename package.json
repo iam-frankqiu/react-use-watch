@@ -1,6 +1,6 @@
 {
   "name": "react-use-watch",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A React hook about triggers once only when dependencies have changed.",
   "main": "dist/index.js",
   "repository": "git@github.com:iam-frankqiu/react-use-watch.git",
