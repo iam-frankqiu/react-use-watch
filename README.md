@@ -5,7 +5,7 @@
 ![typescript supported](https://img.shields.io/badge/typescript-supported-brightgreen)
 ![npm](https://img.shields.io/npm/v/react-use-watch)
 
-A React hook about triggers once only when dependency have changed.
+A React hook about triggers once only when dependencies have changed.
 
 ## Philosophy
 
